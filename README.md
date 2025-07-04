@@ -19,7 +19,9 @@
 - 💬 Open to: Collaborations on **open-source projects, startup ideas, freelance web development**
 - 📫 How to reach me:  
   📧 [naveedahmedgopang76@gmail.com](mailto:naveedahmedgopang76@gmail.com)  
-  💼 [LinkedIn](https://www.linkedin.com/in/naveed-ahmed-7b916629a)
+  💼 [LinkedIn](https://www.linkedin.com/in/naveed-ahmed-7b916629a
+
+
 
 ---
 
